@@ -1,3 +1,1 @@
-Welcome to MyProject!
-
-Author:Ajinkya
+welcome to github
